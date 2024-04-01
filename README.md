@@ -4,7 +4,7 @@ YouTube Downloader es una aplicación de descarga de videos y audio de YouTube d
 
 ## Descarga e Instalación
 
-1. Ve a la sección de [lanzamientos](https://github.com/tu_usuario/tu_repositorio/releases) en GitHub.
+1. Ve a la sección de [lanzamientos](https://github.com/TomasB-Dev/Youtube-downloader/releases/tag/v0.1) en GitHub.
 2. Descarga el archivo ejecutable según tu sistema operativo (Windows, macOS, Linux).
 3. Ejecuta el archivo descargado para iniciar la aplicación.
 
@@ -23,4 +23,4 @@ Si deseas contribuir a este proyecto, ¡siéntete libre de hacerlo! Solo tienes 
 
 ## Problemas y Soporte
 
-Si encuentras algún problema o necesitas ayuda, por favor abre un problema en el [repositorio](https://github.com/tu_usuario/tu_repositorio/issues) de GitHub.
+Si encuentras algún problema o necesitas ayuda, por favor abre un problema en el [repositorio](https://github.com/TomasB-Dev/Youtube-downloader/issues) de GitHub.
